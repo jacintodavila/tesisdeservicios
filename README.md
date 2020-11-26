@@ -3,6 +3,8 @@ Modelo y Ejemplos de Documentos con Tesis Académicas
 
 ## Modelo
 
-[Modelo de tesis](tesis.md)   [Modelo de Autobiografía](autobiografia.md)
+| Tesis                            |               |  Autobiografía  |
+| -------------                    |:-------------:| :---------------:|
+| [Modelo de tesis](tesis.md)      |               | [Modelo de Autobiografía](autobiografia.md) |
 
 ## Ejemplos

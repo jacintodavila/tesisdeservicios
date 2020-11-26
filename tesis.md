@@ -1,6 +1,7 @@
 # Tesis
 ## Resumen
-## I.- Introducción (que termina con la definición de objetivos de este proyecto de tesis)
+## I.- Introducción 
+### Objetivos
 ## II.- Metodología
 ### III 1.- Desempeños de servicio.
 ### III 2.- Defensa de los derechos de usuarias y usuarios.

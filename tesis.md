@@ -1,8 +1,8 @@
 # Una Tesis de Servicios
-Comunidad de Aprendizaje en Servicios
-Programa de Estudios Abiertos
-Universidad Politécnica Territorial de Mérida "Kléber Ramírez"
-República Bolivariana de Venezuela
+### Comunidad de Aprendizaje en Servicios
+### Programa de Estudios Abiertos
+## Universidad Politécnica Territorial de Mérida "Kléber Ramírez"
+## República Bolivariana de Venezuela
 
 Para ser presentada como requisito para optar al título doctoral en Servicios
 

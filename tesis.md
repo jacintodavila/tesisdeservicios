@@ -19,11 +19,11 @@ En la Venezuela histórica, sin embargo, el servicio para el pueblo o servicio p
 En esa concepción, los servicios para el pueblo son etiquetados como servicios públicos en tanto que se le prestan a un público, una audiencia pasiva, condenada a consumirlos en las condiciones descritas, que generalmente son impuestas por el prestador sin participación del estado o del gobierno de turno. Es decir, sin participación popular.
 
 Todas esas causas convergen para convertir a los servicios del pueblo en un problema sumamente complejo con un contexto caracterizado fundamentalmente por la debilidad del poder popular para reconocer, enfrentar y resolver el gran problema. Esta comunidad de aprendizaje se propone crear y sostener un proyecto de estudio, investigación y acción sobre los problemas transcendales de los servicios para el pueblo. Es un esfuerzo intelectual, necesariamente inter, multidisciplinario y transdisciplinario, dirigido a explorar el concepto de servicio del pueblo o público, su esencia como bien público, su naturaleza social, su condición histórica y también los medios científicos y tecnológicos que podrían servir para rescatar el objetivo de auténtico beneficio colectivo. Dicho de otra
-manera, un proyecto dirigido a caracterizar la inteligencia subyacente en los servicios públicos y a reforzarla y difundirla ampliamente para empoderar al poder popular.
-
+manera, un proyecto dirigido a caracterizar la inteligencia subyacente en los servicios públicos y a reforzarla y difundirla ampliamente para empoderar al poder popular." (Dávila et al, 2011)
+ 
 ### Objetivos
 
-El proyecto se plantea explorar los temas de bien público, organización e inteligencia social, democracia participativa, memoria colectiva, conocimiento libre, prospección científica al servicio del bien público, manipulación mediática, contraloría social efectiva, planificación estratégica, articulada o comunitaria, modelos de la burocracia y creación y gestión de redes sociales, pero siempre manteniendo el análisis en conexión directa con casos de estudio reales y la acción comunitaria verificable que recomiende la reflexión.” 
+"El proyecto se plantea explorar los temas de bien público, organización e inteligencia social, democracia participativa, memoria colectiva, conocimiento libre, prospección científica al servicio del bien público, manipulación mediática, contraloría social efectiva, planificación estratégica, articulada o comunitaria, modelos de la burocracia y creación y gestión de redes sociales, pero siempre manteniendo el análisis en conexión directa con casos de estudio reales y la acción comunitaria verificable que recomiende la reflexión.” (.ibid)
 
 ## II.- Metodología
 

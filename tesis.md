@@ -113,3 +113,25 @@ Por esa razón, nos hemos permitido volver a la raíz histórica del método cie
 ### III 6.- Discusión doctrinaria sobre derechos, deberes, libertades y responsabilidades en servicios.
 ## IV.-  Conclusiones
 ## Referencias
+
+Dávila, Jacinto; García, María Elena; Márquez, Melva; Ruíz, Marisol; Solé, Manuela. (2011) Proyecto de Desarrollo Endógeno Comunitario e Institucional Comunidad de aprendizaje: La inteligencia de los servicios del pueblo como espacios humanos para beneficio colectivo. Presentado ante el Consejo Académico de la Universidad de Mérida para Estudios Abiertos, UMEA y el Programa Nacional de Estudios Abiertos del Ministerio del Poder Popular para la Educación Universitaria
+http://aprender-a-servir.blogspot.com/  Versión 3.0 Junio 2011
+
+
+Popper, Karl R. (1997) La Lógica de La Investigación Científica. Editorial Tecnos S.A. Madrid. ISBN 84-309-0711-4. 10ma. Edición. Versión castellana de la obra: The Logic of Scientific Discovery, publicada en Londres por Hutchinson & Co, LTD. 
+
+
+Leal, J. (2009). La autonomía del sujeto investigador y la metodología de Investigación. Edición Azul Intenso. 2da. Edición. Valencia. Venezuela.
+
+Piña, Nelcy P. (2013) Web Semántica en la Consulta de Datos Geo-Referenciados. Tesis Doctoral en Ciencias Gerenciales. Universidad Rafael Belloso Chacín. Maracaibo. Venezuela. 
+
+
+Vieytes, R. (2004). Metodología de la investigación en organizaciones, mercado y sociedad. Editorial de las Ciencias.
+
+Hernández, Fernández y Baptista (2008). Metodología de la Investigación. 4ta Edición. McGraw Hill.
+
+Hurtado de B., J. (2000). Metodología de la investigación holística. Fundación SYPAL. Caracas, Venezuela.
+
+Hurtado de B., J. (2005). Cómo formular objetivos de investigación. Quirón Ediciones. Caracas, Venezuela.
+
+

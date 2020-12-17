@@ -114,7 +114,6 @@ De esta forma, las y los nuevos investigadores se ven forzados a transitar un ej
 
 Por esa razón, nos hemos permitido volver a la raíz histórica del método científico y a proponemos una postura más abierta que permita innovar en los cómo tanto se espera que cada investigación avance e contribuya originalmente en los qué.  Sin renunciar al rigor y a la sistematicidad, los contenidos de este documento procuran un planteamiento claro y preciso de cada hipótesis, la creación de una colección de hipótesis relacionadas que conforman un teoría y cualquier ejercicio que se considere procedente para evaluar la calidad de esa teoría, particularmente aquellos que conduzcan o pudieran conducir a que sea falsada y superada. Ese es nuestro método. 
 
-## Contribuciones
 ### III 1.- Desempeños de servicio.
 ### III 2.- Defensa de los derechos de usuarias y usuarios.
 ### III 3.- Cultivo y preservación de experiencias y mejores prácticas.

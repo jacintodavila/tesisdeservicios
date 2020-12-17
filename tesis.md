@@ -1,5 +1,15 @@
-# Tesis
+# Una Tesis de Servicios
+Comunidad de Aprendizaje en Servicios
+Programa de Estudios Abiertos
+Universidad Politécnica Territorial de Mérida "Kléber Ramírez"
+República Bolivariana de Venezuela
+
+Para ser presentada como requisito para optar al título doctoral en Servicios
+
+(Trabajo en progreso)
+
 ## Resumen
+
 ## I.- Introducción 
 
 “La condición de usuario o de usuaria de un servicio es inescapable. Es un aspecto esencial de la vida humana y de su calidad. Un aspecto que, además, se entrelaza íntimamente con el devenir histórico, la realidad económica, los desarrollos tecnológicos y la orientación política de toda la sociedad. Se trata de necesidades básicas de las personas que suelen ser satisfechas por organizaciones públicas o privadas cuyo objetivo debe ser el bien público y el bienestar colectivo.
